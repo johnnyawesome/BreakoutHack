@@ -34,7 +34,7 @@
 
 		Breakout.Defaults.ball.labels = {
 			3: { text: '👾HACK...👾', fill: '#D82800', stroke: 'black', font: 'bold 28pt arial' },
-			2: { text: 'THAT..',    fill: '#80D010', stroke: 'black', font: 'bold 28pt arial' },
+			2: { text: '💀THAT..💀',    fill: '#80D010', stroke: 'black', font: 'bold 28pt arial' },
 			1: { text: '💩SHIT!💩',      fill: '#D82800', stroke: 'black', font: 'bold 28pt arial' }
 		};
 
