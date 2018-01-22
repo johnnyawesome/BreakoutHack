@@ -15,7 +15,7 @@
 
 	addHackButton();
 
-	console.log("Snake Cheat Script by Johnny Awesome");
+	console.log("Breakout Cheat Script by Johnny Awesome");
 
 	function addHackButton() {
 
