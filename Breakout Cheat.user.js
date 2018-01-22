@@ -30,7 +30,7 @@
 
 	function addCheatTweaks(){
 
-		alert("The default Values are now overwritten. Start a game and loose it. Then, the game reloads with the cheat values inserted. Start it again and enjoy!");
+		alert("The default Values are now overwritten. Start a game and LOOSE it. Then, the game reloads itself, inserting the Cheat Values for you. Start another game and enjoy!");
 
 		Breakout.Defaults.ball.labels = {
 			3: { text: '👾HACK...👾', fill: '#D82800', stroke: 'black', font: 'bold 28pt arial' },
