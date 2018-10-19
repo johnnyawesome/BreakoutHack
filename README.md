@@ -29,6 +29,6 @@ There are several possibilities to run it:
 It's also possible to run it in:
  -  [Greasemonkey in Firefox ](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
  - It even works from Firefoxes Scratchpad if you don't want to install the Plugin.
-   (Settings --> Web Developer --> Scratchpad. Paste there, click RUN while on the  [Chess.com Website](https://www.chess.com/tv))
+   (Settings --> Web Developer --> Scratchpad. 
    
    When you installed it and it runs, a Hack Button appears. Click it and enjoy! :)
