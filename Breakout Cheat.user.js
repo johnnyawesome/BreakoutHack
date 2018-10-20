@@ -7,6 +7,8 @@
 // @match        https://codeincomplete.com/games/breakout/*
 // @grant        none
 // @icon         https://cdn0.iconfinder.com/data/icons/pixelo/32/skull.png
+// @updateURL    https://github.com/johnnyawesome/BreakoutHack/raw/master/Breakout%20Cheat.user.js
+// @downloadURL  https://github.com/johnnyawesome/BreakoutHack/raw/master/Breakout%20Cheat.user.js
 // ==/UserScript==
 
 (function() {
