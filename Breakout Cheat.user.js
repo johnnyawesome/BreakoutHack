@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Codeimcomplete Breakout Cheat
 // @namespace    https://github.com/johnnyawesome
-// @version      0.1
+// @version      1.0
 // @description  Breakout God Mode for https://codeincomplete.com/games/breakout/
 // @author       JohnnyAwesome
 // @match        https://codeincomplete.com/games/breakout/*
