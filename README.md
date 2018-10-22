@@ -3,11 +3,9 @@ Userscript - God Mode for a Breakout Game
 
 ## DISCLAIMER ##
 
-The Breakout Game this cheat is for is an OFFLINE game. Your browser loads it form the site when you open the link, and from that point on it runs LOCALLY.
-
+The Breakout Game this cheat is for, is an OFFLINE game. It ONLY changes the LOCAL copy of the game.
 Therefor, this script DOES NOT alter data on anyone's servers. You cannot even submit a highscore in this game.
-
-It all happens LOCALLY in your Browser.
+This Script ONLY changes values in your browser's copy of the page, much like an adblocker does.
 
 ## Where it works: ##
 
