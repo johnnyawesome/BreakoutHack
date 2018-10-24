@@ -10,6 +10,7 @@
 // @icon64	 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
 // @updateURL    https://github.com/johnnyawesome/BreakoutHack/raw/master/Breakout%20Cheat.user.js
 // @downloadURL  https://github.com/johnnyawesome/BreakoutHack/raw/master/Breakout%20Cheat.user.js
+// @noframes
 // ==/UserScript==
 
 (function() {
