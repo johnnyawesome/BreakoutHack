@@ -1,6 +1,9 @@
 # BreakoutHack
 Userscript - God Mode for a Breakout Game
 
+![alt text](https://github.com/johnnyawesome/BreakoutHack/blob/master/breakoutHack.jpg)
+
+
 ## DISCLAIMER ##
 
 The Breakout Game this cheat is for, is an OFFLINE game. It ONLY changes the LOCAL copy of the game.
