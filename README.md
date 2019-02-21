@@ -33,3 +33,7 @@ It's also possible to run it in:
    (Settings --> Web Developer --> Scratchpad. 
    
    When you installed it and it runs, a Hack Button appears. Click it and enjoy! :)
+
+## More Information
+
+[I blogged about this project in more detail](https://breaksome.tech/browsergame-hack-3---breaking-a-breakout-game/)
